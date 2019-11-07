@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import logo from "../logo.svg";
+import logo from "../bifisheries.png";
 import { ButtonContainer } from "./Button";
 export default class Navbar extends Component {
   render() {
