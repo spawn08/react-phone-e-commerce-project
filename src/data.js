@@ -195,6 +195,42 @@ export const storeProducts = [
     inCart: false,
     count: 0,
     total: 0
+  },
+  {
+    id: 17,
+    title: "Fabulous Men's Jeans",
+    img: "img/clothes-1.jpg",
+    price: 50,
+    company: "B.I. Fisheries",
+    info:
+      "It Has 1 Piece Of Men's Jeans Type: Stitched, Color: Blue, Fabric: Cotton & Polyurethanes, Size: XS - Waist - 27.56 in, Length - 34.7 in, S - Waist - 28.35 in, Length - 34.9 in, M - Waist - 29.15 in, Length - 35.1 in, L - Waist - 29.92 in, Length - 35.3 in, XL - Waist - 30.71 in, Length - 35.5 in, 2XL - Waist - 31.5 in, Length - 35.68 in, 3XL - Waist - 32.28 in, Length - 35.88 in, ",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+	{
+    id: 18,
+    title: "Unique Men's Heavy Denim Jean",
+    img: "img/clothes-2.jpg",
+    price: 50,
+    company: "B.I. Fisheries",
+    info:
+      "Fabric: Heavy Denim, Waist Size:  30 in, 32 in, 34 in , 36 in, 38 in, Length: Up To 40 in, Type: Stitched, It Has 1 Piece Of Men's  Jeans. Pattern: Solid, Sizes Available - 30, 32, 34, 36, 38.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+	{
+    id: 19,
+    title: "Stylish Women's Attractive Denim Jeans",
+    img: "img/clothes-3.jpg",
+    price: 50,
+    company: "B.I. Fisheries",
+    info:
+      "Fabric: Denim, Waist Size: 28 in, 30 in, 32 in \n Length: Up To 36 in, Type: Stitched, It Has 1 Piece Of Women's Jeans. Pattern: Solid, Sizes Available - 28, 30, 32, 34.",
+    inCart: false,
+    count: 0,
+    total: 0
   }
 ];
 
