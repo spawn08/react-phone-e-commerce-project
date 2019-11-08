@@ -64,38 +64,134 @@ export const storeProducts = [
     count: 0,
     total: 0
   },
-  {
+   {
     id: 6,
-    title: "Vintage Iphone",
-    img: "img/product-6.png",
-    price: 17,
-    company: "apple",
+    title: "Elegant Jewellery Set Material: Allloy",
+    img: "img/necklace-1.jpg",
+    price: 55,
+    company: "B.I. Fisheries",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Size: Free Size \n It Has 1 Piece Of Women's Necklace With 1 Pair Of Earnings. Work: Embellished",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 7,
-    title: "Iphone 7",
-    img: "img/product-7.png",
-    price: 30,
-    company: "apple",
+    title: "Attractive Oxidized Metal Women's Jewellery Set",
+    img: "img/necklace-2.jpg",
+    price: 50,
+    company: "B.I. Fisheries",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "It Has 1 Piece Of Choker With 1 Pair Of Earrings. Work: Embellished. Size: Free Size",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 8,
-    title: "Smashed Iphone",
-    img: "img/product-8.png",
-    price: 2,
-    company: "apple",
+    title: "Fashionable Fancy Women's Jewellery Set",
+    img: "img/necklace-3.jpg",
+    price: 60,
+    company: "B.I. Fisheries",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "It Has 1 Piece Of Necklace & 1 Pair Of Earring. Work: Embellished. Size: Free Size",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 9,
+    title: "Charming Oxidized Silver Jewellery Set",
+    img: "img/necklace-4.jpg",
+    price: 50,
+    company: "B.I. Fisheries",
+    info:
+      "It Has 1 Piece Of Choker Necklace With 1 Pair Of Earring & 1 Piece Of Maang Tikka. Work: Beads Work. Size: Free Size",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 10,
+    title: "Fancy German Silver Jewellery Set",
+    img: "img/necklace-5.jpg",
+    price: 55,
+    company: "B.I. Fisheries",
+    info:
+      "It Has 1 Piece Of Necklace With 1 Pair Of Earring. Work: Embellished. Size: Free Size",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 11,
+    title: "Sia Elegant Alloy Women's Jewellery Sets",
+    img: "img/necklace-4.jpg",
+    price: 55,
+    company: "B.I. Fisheries",
+    info:
+      "It Has 1 Piece of Necklace & 1 Pair of Earrings. Work: Beads Work. Size: Free Size",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 12,
+    title: "Shimmering Oxidized Silver Jewellery Set",
+    img: "img/necklace-7.jpg",
+    price: 55,
+    company: "B.I. Fisheries",
+    info:
+      "It Has 1 Piece Of Necklace With 1 Pair Of Earring. Work: Embellished. Size: Free Size",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 13,
+    title: "Fusion Oxidized Silver Kadaa",
+    img: "img/necklace-8.jpg",
+    price: 55,
+    company: "B.I. Fisheries",
+    info:
+      "Multipack: 1, Base Metal: Oxidized Silver. Size: Adjustable",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 14,
+    title: "Attractive Antique Alloy  jewellery  05",
+    img: "img/necklace-9.jpg",
+    price: 55,
+    company: "B.I. Fisheries",
+    info:
+      "It Has 1 Piece Of Necklace & 1 Pair Of Earrings, Multipack: 1. Base Metal: Alloy \n Plating: Gold Plated \n Stone Type: Artificial Beads",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 15,
+    title: "New Fancy Alloy Women's Jewellery Set",
+    img: "img/necklace-10.jpg",
+    price: 55,
+    company: "B.I. Fisheries",
+    info:
+      "It Has 1 Piece Of Necklace With1 Pair Of Earring. Work: Embellished. Size: Free Size",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 16,
+    title: "Antique Oxidized Silver Jewellery Set",
+    img: "img/necklace-11.jpg",
+    price: 55,
+    company: "B.I. Fisheries",
+    info:
+      "It Has 1 Piece Of Necklace With 1 Pair Of Earring. Work:  Embellished With Thread Work & Beads Work. Size: Free Size",
     inCart: false,
     count: 0,
     total: 0
