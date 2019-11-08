@@ -66,9 +66,9 @@ export const storeProducts = [
   },
    {
     id: 6,
-    title: "Elegant Jewellery Set Material: Allloy",
+    title: "Elegant Jewellery Set Material: Alloy",
     img: "img/necklace-1.jpg",
-    price: 55,
+    price: 52,
     company: "B.I. Fisheries",
     info:
       "Size: Free Size \n It Has 1 Piece Of Women's Necklace With 1 Pair Of Earnings. Work: Embellished",
@@ -80,7 +80,7 @@ export const storeProducts = [
     id: 7,
     title: "Attractive Oxidized Metal Women's Jewellery Set",
     img: "img/necklace-2.jpg",
-    price: 50,
+    price: 55,
     company: "B.I. Fisheries",
     info:
       "It Has 1 Piece Of Choker With 1 Pair Of Earrings. Work: Embellished. Size: Free Size",
@@ -104,7 +104,7 @@ export const storeProducts = [
     id: 9,
     title: "Charming Oxidized Silver Jewellery Set",
     img: "img/necklace-4.jpg",
-    price: 50,
+    price: 60,
     company: "B.I. Fisheries",
     info:
       "It Has 1 Piece Of Choker Necklace With 1 Pair Of Earring & 1 Piece Of Maang Tikka. Work: Beads Work. Size: Free Size",
@@ -116,7 +116,7 @@ export const storeProducts = [
     id: 10,
     title: "Fancy German Silver Jewellery Set",
     img: "img/necklace-5.jpg",
-    price: 55,
+    price: 65,
     company: "B.I. Fisheries",
     info:
       "It Has 1 Piece Of Necklace With 1 Pair Of Earring. Work: Embellished. Size: Free Size",
@@ -140,7 +140,7 @@ export const storeProducts = [
     id: 12,
     title: "Shimmering Oxidized Silver Jewellery Set",
     img: "img/necklace-7.jpg",
-    price: 55,
+    price: 65,
     company: "B.I. Fisheries",
     info:
       "It Has 1 Piece Of Necklace With 1 Pair Of Earring. Work: Embellished. Size: Free Size",
@@ -152,7 +152,7 @@ export const storeProducts = [
     id: 13,
     title: "Fusion Oxidized Silver Kadaa",
     img: "img/necklace-8.jpg",
-    price: 55,
+    price: 53,
     company: "B.I. Fisheries",
     info:
       "Multipack: 1, Base Metal: Oxidized Silver. Size: Adjustable",
@@ -164,7 +164,7 @@ export const storeProducts = [
     id: 14,
     title: "Attractive Antique Alloy  jewellery  05",
     img: "img/necklace-9.jpg",
-    price: 55,
+    price: 60,
     company: "B.I. Fisheries",
     info:
       "It Has 1 Piece Of Necklace & 1 Pair Of Earrings, Multipack: 1. Base Metal: Alloy \n Plating: Gold Plated \n Stone Type: Artificial Beads",
@@ -176,7 +176,7 @@ export const storeProducts = [
     id: 15,
     title: "New Fancy Alloy Women's Jewellery Set",
     img: "img/necklace-10.jpg",
-    price: 55,
+    price: 57,
     company: "B.I. Fisheries",
     info:
       "It Has 1 Piece Of Necklace With1 Pair Of Earring. Work: Embellished. Size: Free Size",
@@ -188,7 +188,7 @@ export const storeProducts = [
     id: 16,
     title: "Antique Oxidized Silver Jewellery Set",
     img: "img/necklace-11.jpg",
-    price: 55,
+    price: 50,
     company: "B.I. Fisheries",
     info:
       "It Has 1 Piece Of Necklace With 1 Pair Of Earring. Work:  Embellished With Thread Work & Beads Work. Size: Free Size",
@@ -212,7 +212,7 @@ export const storeProducts = [
     id: 18,
     title: "Unique Men's Heavy Denim Jean",
     img: "img/clothes-2.jpg",
-    price: 50,
+    price: 60,
     company: "B.I. Fisheries",
     info:
       "Fabric: Heavy Denim, Waist Size:  30 in, 32 in, 34 in , 36 in, 38 in, Length: Up To 40 in, Type: Stitched, It Has 1 Piece Of Men's  Jeans. Pattern: Solid, Sizes Available - 30, 32, 34, 36, 38.",
@@ -224,7 +224,7 @@ export const storeProducts = [
     id: 19,
     title: "Stylish Women's Attractive Denim Jeans",
     img: "img/clothes-3.jpg",
-    price: 50,
+    price: 55,
     company: "B.I. Fisheries",
     info:
       "Fabric: Denim, Waist Size: 28 in, 30 in, 32 in \n Length: Up To 36 in, Type: Stitched, It Has 1 Piece Of Women's Jeans. Pattern: Solid, Sizes Available - 28, 30, 32, 34.",
