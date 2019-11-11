@@ -11,7 +11,7 @@ const Footer = () => {
             </div>
 
         <div className="container">
-                <p className="m-0 text-center text-white">Judicial of India</p>
+                <p className="m-0 text-center text-white">Judicial of Jodhpur</p>
             </div>
 
         </footer>
