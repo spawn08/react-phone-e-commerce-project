@@ -56,7 +56,7 @@ export const storeProducts = [
     id: 5,
     title: "Singhara Fish",
     img: "img/singhara.jpg",
-    price: 50,
+    price: 95,
     company: "B.I. Fisheries",
     info:
       "Microwaved in a flavours ranging from spices, seeds and condiments, this fish recipe is a keeper. Singara is also known as cat fish and kalia means fish curry. No refund available.",
@@ -139,8 +139,8 @@ export const storeProducts = [
    {
     id: 12,
     title: "Singhi",
-    img: "img/lanchi.jpg",
-    price: 70,
+    img: "img/singhi.jpg",
+    price: 95,
     company: "B.I. Fisheries",
     info:
       "The Singhi is a species of airsac catfish found in India, Bangladesh, Pakistan, Nepal, Sri Lanka, Thailand, Myanmar, and Bhutan.",
@@ -168,6 +168,18 @@ export const storeProducts = [
     company: "B.I. Fisheries",
     info:
       "The common carp is a widespread freshwater fish of eutrophic waters in lakes and large rivers in Europe and Asia.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+   {
+    id: 15,
+    title: "Sawal",
+    img: "img/sawal.jpg",
+    price: 120,
+    company: "B.I. Fisheries",
+    info:
+      "The Sawal is a species of carp family, found in rivers of Indian subcontinent and extensively used in aquaculture.",
     inCart: false,
     count: 0,
     total: 0

@@ -16,6 +16,12 @@ https://www.iconfinder.com/Makoto_msk */}
         </Link>
         <ul className="navbar-nav align-items-center">
           <li className="nav-item ml-5">
+            <Link to="/aboutus" className="nav-link">
+             About Us
+            </Link>
+          </li>
+
+          <li className="nav-item ml-5">
             <Link to="/" className="nav-link">
               B.I. Fisheries
             </Link>
